@@ -234,4 +234,4 @@ This repository serves as the official landing page for RSSOwl. The software is 
 **Get the most recent version of RSSOwl today!**
 
 ---
-**Last updated:** 2026-09-28 00:25:09 UTC
+**Last updated:** 2026-09-28 06:28:46 UTC
